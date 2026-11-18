@@ -1,0 +1,7 @@
+# SolidWorks lock / temp files
+~$*
+*.swp
+*.tmp
+# Windows
+Thumbs.db
+desktop.ini
